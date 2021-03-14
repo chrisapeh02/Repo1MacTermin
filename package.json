@@ -1,0 +1,20 @@
+{
+  "name": "MyfolderGitTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisapeh02/Repo1MacTermin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisapeh02/Repo1MacTermin/issues"
+  },
+  "homepage": "https://github.com/chrisapeh02/Repo1MacTermin#readme"
+}
